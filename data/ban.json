@@ -1,0 +1,100 @@
+{
+  "menu": [
+    {
+      "merek": "Bridgestone Dueler H/T",
+      "size": "689 215/65 R20",
+      "harga": 1095000,
+      "gambar": "ht1.jpg"
+    },
+    {
+      "merek": "Bridgestone Dueler H/T",
+      "size": "689 215/65 R20",
+      "harga": 1075000,
+      "gambar": "ht2.jpg"
+    },
+    {
+      "merek": "Bridgestone Dueler H/T",
+      "size": "689 215/65 R19",
+      "harga": 1065000,
+      "gambar": "ht3.jpg"
+    },
+    {
+      "merek": "Bridgestone Dueler H/T",
+      "size": "689 215/65 R19",
+      "harga": 1055000,
+      "gambar": "ht4.jpg"
+    },
+    {
+      "merek": "Bridgestone Ecopia",
+      "size": "689 215/65 R15",
+      "harga": 950000,
+      "gambar": "ep1.jpg"
+    },
+    {
+      "merek": "Bridgestone Ecopia",
+      "size": "689 215/75 R15",
+      "harga": 957000,
+      "gambar": "ep1.jpg"
+    },
+    {
+      "merek": "Bridgestone Ecopia",
+      "size": "689 215/65 R16",
+      "harga": 980000,
+      "gambar": "ep2.jpg"
+    },
+    {
+      "merek": "Bridgestone Ecopia",
+      "size": "689 215/75 R16",
+      "harga": 999000,
+      "gambar": "ep2.jpg"
+    },
+    {
+      "merek": "Bridgestone Dueler M/T",
+      "size": "689 215/65 R20",
+      "harga": 195000,
+      "gambar": "mt1.jpg"
+    },
+    {
+      "merek": "Bridgestone Dueler M/T",
+      "size": "689 215/75 R20",
+      "harga": 196000,
+      "gambar": "mt2.jpg"
+    },
+    {
+      "merek": "Bridgestone Dueler M/T",
+      "size": "689 215/75 R21",
+      "harga": 197000,
+      "gambar": "mt3.jpg"
+    },
+    {
+      "merek": "Bridgestone Dueler M/T",
+      "size": "689 215/85 R21",
+      "harga": 198000,
+      "gambar": "mt4.jpg"
+    },
+    {
+      "merek": "Bridgestone Potenza",
+      "size": "689 215/85 R17",
+      "harga": 890000,
+      "gambar": "t1.jpg"
+    },
+    {
+      "merek": "Bridgestone Potenza",
+      "size": "689 215/85 R17",
+      "harga": 895000,
+      "gambar": "t1.jpg"
+    },
+    {
+      "merek": "Bridgestone Potenza",
+      "size": "689 215/85 R18",
+      "harga": 1550000,
+      "gambar": "t3.jpg"
+    },
+    {
+      "merek": "Bridgestone Potenza",
+      "size": "689 215/85 R18",
+      "harga": 1800000,
+      "gambar": "t3.jpg"
+    }
+  ]
+}

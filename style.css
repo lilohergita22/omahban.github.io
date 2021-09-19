@@ -27,11 +27,41 @@ hr {
 /* jumbotron */
 
 .jumbotron {
-  background-image: url(img/jumbotron/j1.jpg);
+  background-image: url(img/jumbotron/j2.jpg);
   background-size: cover;
-  padding-top: 6rem;
-  height: 500px;
+  padding-top: 2rem;
+  height: 600px;
+  text-align: center;
+  /* color: #fff; */
   /* height: 900px; */
+}
+
+.display-4j1 {
+  color: #fff;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.jumbotron hr {
+  border-color: #a9e8ff;
+  width: 70px;
+  border-width: 3px;
+}
+
+.jumbotron p {
+  color: #fff;
+}
+
+.jumbotron .btn {
+  /* margin-right: 300px;
+  margin-left: 300px; */
+  text-align: center;
+  background-color: #00ff4c;
+  border: none;
+  border-radius: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 100px;
 }
 
 section {
@@ -49,6 +79,12 @@ section {
   background-image: url(img/jum12.jpg);
   background-size: cover;
   height: 400px;
+}
+
+/* new produk hover */
+.card1:hover {
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+  transform: scale(1.08);
 }
 
 /* jumbotron contact */
@@ -95,7 +131,18 @@ section {
   background-color: darkslategrey;
 }
 
+/* footer1 */
+.footer1 a:link {
+  /* color: #fff; */
+}
 /* CSS HALAMAN CONTACT */
 .jumbotroncontact {
   margin-top: -20px;
+}
+
+.buttoncontact {
+  border: none;
+  border-radius: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
